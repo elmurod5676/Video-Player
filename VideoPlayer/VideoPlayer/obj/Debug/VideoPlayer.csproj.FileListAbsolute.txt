@@ -1,0 +1,17 @@
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.AssemblyReference.cache
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Form1.resources
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\elmuroddev\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CopyComplete
